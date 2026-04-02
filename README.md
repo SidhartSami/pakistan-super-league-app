@@ -8,7 +8,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/SidhartSami/pakistan-super-league-app/releases/latest">
-    
     <img src="https://img.shields.io/badge/⬇️%20Download%20APK-v1.0.0%20%7C%2018%20MB-brightgreen?style=for-the-badge" alt="Download APK" />
   </a>
 
